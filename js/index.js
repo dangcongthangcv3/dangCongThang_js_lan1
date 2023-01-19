@@ -42,3 +42,4 @@ function cau5(){
     var tong = hangChuc + hangDonVi
     ketQua5.innerHTML = 'Tổng: ' + tong
 }
+//Hoàn thành JS lần 1
